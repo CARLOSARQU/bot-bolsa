@@ -1,0 +1,107 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  canvas {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20%;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #00d994;
+  }
+  
+  #historialTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #historialTable thead th {
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  #historialTable tbody td {
+    padding: 10px;
+  }
+  
+  #historialTable tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  #historialTable tbody tr:hover {
+    background-color: #e6e6e6;
+  }
+  
+  
+#historialTable {
+     width: 100%;
+     border-collapse: collapse;
+   }
+   
+   #historialTable thead th {
+     background-color: #f2f2f2;
+     color: #333;
+     font-weight: bold;
+     padding: 10px;
+     text-align: left;
+   }
+   
+   #historialTable tbody td {
+     padding: 10px;
+   }
+   
+   #historialTable tbody tr:nth-child(even) {
+     background-color: #f9f9f9;
+   }
+   
+   #historialTable tbody tr:hover {
+     background-color: #e6e6e6;
+   }
+   
+  
+   
+#lTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#lTable thead th {
+  background-color: #f2f2f2;
+  color: #333;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+
+#lTable tbody td {
+  padding: 10px;
+}
+
+#lTable tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+#lTable tbody tr:hover {
+  background-color: #e6e6e6;
+}
+
